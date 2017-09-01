@@ -1,0 +1,12 @@
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | INFO] Serving notebooks from local directory: /Users/ivanovitch/UFRN/EEC2006
+[LabApp | INFO] 0 active kernels 
+[LabApp | INFO] The Jupyter Notebook is running at: http://localhost:8889/?token=c5e37a67b201d1e721d47c3378ff810ae0eff776a502f4e2
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=c5e37a67b201d1e721d47c3378ff810ae0eff776a502f4e2
+[LabApp | INFO] Accepting one-time-token-authenticated connection from ::1
