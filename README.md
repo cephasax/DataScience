@@ -53,10 +53,18 @@ Note: classes are held once a week for 3,5 hours.
     * Histogram and Box Plots 
     * Wrapper from Pandas to Matplotlib
     * Guided project: EDA for academic performance
+* Lesson 7 - Storytelling from data visualization I
+	* Case study: visualizing gender gap
+	* Data Ink Ratio 
+	* Hiding tick marks, spines
+	* Color, layout, line width
+	* Legend and annotations
+	
 
 ### References
 
 * [Dataquest](https://www.dataquest.io/) 
 * [Datacamp](https://www.datacamp.com/) 
 * [Visualization](https://github.com/croach/oreilly-matplotlib-course)
-
+* [Geodata-BR](https://github.com/tbrugz/geodata-br)
+* [Folium](https://github.com/python-visualization/folium)
