@@ -59,7 +59,23 @@ Note: classes are held once a week for 3,5 hours.
 	* Hiding tick marks, spines
 	* Color, layout, line width
 	* Legend and annotations
-	
+* Lesson 8 - Storytelling from Seaborn
+	* Case study: kaggle competition
+	* Motivation: seaborn
+	* Histogram, KDE
+	* Modifying the appearance of plots 
+	* Conditional distributions
+* Lesson 9 - Storytelling from maps	
+	* Case study I: open flights
+	* Geographic coordinate system: problems
+	* Basemap toolkit
+	* Folium
+	* Maps styles, markers, color and icon types
+	* Marker clusters
+	* Heatmap
+	* Popups
+	* Case study II: open data Natal-RN
+
 
 ### References
 
